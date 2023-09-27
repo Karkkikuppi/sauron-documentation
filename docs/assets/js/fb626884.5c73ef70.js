@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksauron_docusaurus=self.webpackChunksauron_docusaurus||[]).push([[341],{1417:n=>{n.exports=JSON.parse('{"title":"Documentation","description":"no!","slug":"/category/documentation","permalink":"/sauron-documentation/docs/category/documentation","navigation":{"next":{"title":"nuh uh!","permalink":"/sauron-documentation/docs/docs/nuhuh"}}}')}}]);
