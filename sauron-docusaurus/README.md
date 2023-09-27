@@ -1,0 +1,1 @@
+This is the docusaurus project for sauron's docs. Please dump the built static files in /docs instead of here.

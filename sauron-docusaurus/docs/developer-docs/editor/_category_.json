@@ -1,0 +1,8 @@
+{
+  "label": "Playback system",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Pages related to the inner workings of the playback system"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Developer Documentation",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "The Sauron Developer Documentation - docs for developers interested in helping out in development, or people who are just generally curious of how we do things roun' here."
+  }
+}

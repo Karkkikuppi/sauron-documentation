@@ -1,0 +1,8 @@
+{
+  "label": "dotsauron",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "dotsauron, or .sauron, is the file format & toolboox for handling .sauron recordings. It also helps out in optimizing packets & more."
+  }
+}
